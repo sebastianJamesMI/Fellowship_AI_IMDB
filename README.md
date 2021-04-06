@@ -16,9 +16,9 @@ I use different strategies to perform this classification task starting with a s
 
 I used models of increasing complexity to do the classification task
 
-Baseline: Using Tensorflow Tokenizer with a simple Neural Network (NN): Sentiment_Analysis_IMDB_Baseline.
 
-1. Using the Tensorflow Tokenizer with LSTM layers: Sentiment_Analysis_IMDB_TF_Tokenizer_LSTM.ipynb
-2. Using the BERT Tokenizer with a CNN layers: Sentiment_Analysis_IMDB_BERT_Tokenizer_CNN.ipynb
-3. Using the BERT Tokenizer and fine-tuning a BERT layer: Sentiment_Analysis_IMDB_BERT_Embedding_LSTM.ipynb
-4. Using the tensorflow tutorials on using BERT: Sentiment_Analysis_IMDB_BERT_Official.ipynb
+1. Baseline: Using Tensorflow Tokenizer with a simple Neural Network (NN): Sentiment_Analysis_IMDB_Baseline.ipynb
+2. Using the Tensorflow Tokenizer with LSTM layers: Sentiment_Analysis_IMDB_TF_Tokenizer_LSTM.ipynb
+3. Using the BERT Tokenizer with a CNN layers: Sentiment_Analysis_IMDB_BERT_Tokenizer_CNN.ipynb
+4. Using the BERT Tokenizer and fine-tuning a BERT layer: Sentiment_Analysis_IMDB_BERT_Embedding_LSTM.ipynb
+5. Using the tensorflow tutorials on using BERT: Sentiment_Analysis_IMDB_BERT_Official.ipynb
