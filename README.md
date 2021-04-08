@@ -20,5 +20,14 @@ I used models of increasing complexity to do the classification task
 2. Using the Tensorflow Tokenizer with LSTM layers: Sentiment_Analysis_IMDB_TF_Tokenizer_LSTM.ipynb
 3. Using the BERT Tokenizer with a CNN layers: Sentiment_Analysis_IMDB_BERT_Tokenizer_CNN.ipynb
 4. Using the BERT Tokenizer and fine-tuning a BERT layer: Sentiment_Analysis_IMDB_BERT_Embedding_LSTM.ipynb
-5. Using the Official Tensorflow tutorials on using BERT: Sentiment_Analysis_IMDB_BERT_Hub_Layer.ipynb
+5. Using the Official Tensorflow tutorials on using BERT:Sentiment_Analysis_IMDB_Tensorflow_Tutorial.ipynb
 6. Fine tuning Keras BERT API: Sentiment_Analysis_IMDB_BERT_Hub_Layer.ipynb
+
+
+Model Number	Model 	                                       Accuracy (1 = 100%)
+1.	Simple Neural Network (NN)	                             0.81
+2.	Tensorflow Tokenizer with LSTM layers	                   0.85
+3. 	BERT Tokenizer with a CNN layers	                       0.89
+4. 	BERT Tokenizer and fine-tuning a BERT layer	             0.88
+5. 	Using Tensorflow Official BERT Tutorial 	               0.85
+6. 	Fine tuning Keras BERT API	                             0.93
