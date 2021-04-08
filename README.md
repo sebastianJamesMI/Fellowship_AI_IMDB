@@ -24,7 +24,7 @@ I used models of increasing complexity to do the classification task
 6. Fine tuning Keras BERT API: Sentiment_Analysis_IMDB_BERT_Hub_Layer.ipynb
 
 
-Model Number	Model 	                                       Accuracy (1 = 100%)
+Model Number	Model*****************************************Accuracy (1 = 100%)
 1.	Simple Neural Network (NN)*******************************0.81
 2.	Tensorflow Tokenizer with LSTM layers*********************0.85
 3. 	BERT Tokenizer with a CNN layers**************************0.89
