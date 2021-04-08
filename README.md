@@ -26,8 +26,8 @@ I used models of increasing complexity to do the classification task
 
 Model Number	Model 	                                       Accuracy (1 = 100%)
 1.	Simple Neural Network (NN)*******************************0.81
-2.	Tensorflow Tokenizer with LSTM layers********************0.85
-3. 	BERT Tokenizer with a CNN layers*************************0.89
-4. 	BERT Tokenizer and fine-tuning a BERT layer**************0.88
+2.	Tensorflow Tokenizer with LSTM layers*********************0.85
+3. 	BERT Tokenizer with a CNN layers**************************0.89
+4. 	BERT Tokenizer and fine-tuning a BERT layer***************0.88
 5. 	Using Tensorflow Official BERT Tutorial******************0.85
 6. 	Fine tuning Keras BERT API*******************************0.93
